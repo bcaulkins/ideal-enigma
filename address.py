@@ -4,4 +4,4 @@ address = raw_input("Address: ")
 phone_num = raw_input("Mobile: ")
 email_address = raw_input("Email Address: ")
 
-print first_name, last_name, address, phone_num, email_address
+print first_name+" "+last_name, address, phone_num, email_address
